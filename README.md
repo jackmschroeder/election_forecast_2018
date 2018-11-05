@@ -1,7 +1,7 @@
 # election_forecast_2018
 
 My main conclusions:
-* Democrats take the House, but only by around 10 seats or so.
+* Democrats take the House by around 15 seats (this could definitely be lower given general uncertainty)
 * Republicans hold the Senate, thanks to the Vice Presidential tiebreaker.
 
 If we want to be specific:
