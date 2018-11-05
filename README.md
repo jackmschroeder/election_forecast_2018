@@ -13,10 +13,6 @@ Race-by-race findings in Senate:
 * Democratic candidates will win in AZ, FL, IN, MO, MT, NV, and WV
 * Republicans will win in ND, TN, and TX, which will be enough to hold the Senate
 
-Race-by-race findings in the House:
-* Democrats will win all but one race in NJ, leaving Rep. Chris Smith as the only Republican in their delegation
-* Antonio Delgado will win in NY-19
-
 To go state-by-state in the House:
 * Democrats win AL-7, Republicans win all others
 * Republicans win AK-At large
